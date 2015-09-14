@@ -1,0 +1,10 @@
+{
+    "version": "1.11.3",
+    "repos": "https://github.com/gilbitron/Nivo-Slider.git",
+    "protocol":"github:hqlcs/nivoSlider",
+    "name": "nivoSlider",
+    "main": "nivoSlider.js",
+    "dependencies" : [
+    	"jquery"
+    ]
+}
